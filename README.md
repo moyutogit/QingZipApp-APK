@@ -1,7 +1,7 @@
-﻿# MdReaderApp APK
+# QingZip APK
 
-Public APK download repository.
+Lightweight archive compression Android debug package.
 
-Download the latest APK from the Releases page:
-
-https://github.com/moyutogit/MdReaderApp-APK/releases/latest/download/MdReader-debug.apk
+- App: 轻压缩
+- Package: `com.qingzip.app`
+- Download: [QingZip-debug.apk](https://github.com/moyutogit/QingZipApp-APK/releases/latest/download/QingZip-debug.apk)
